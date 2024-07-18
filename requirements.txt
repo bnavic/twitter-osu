@@ -1,4 +1,3 @@
 tweepy
 requests
-os
 time
